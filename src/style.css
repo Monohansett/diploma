@@ -1,0 +1,131 @@
+body {
+  background-image: url('http://www.kinyu-z.net/data/wallpapers/224/1489436.jpg');
+  background-size: 100%;
+}
+
+hr {
+  color: indianred;
+  line-height: 1px;
+}
+
+a.nav-link {
+  color: indianred;
+  padding: 1.5rem 1rem;
+}
+
+a.nav-link:hover {
+  background: indianred;
+  color: #e6f3ff
+}
+
+ul {
+  display: inline;
+  list-style-type: none;
+}
+
+label {
+  color: #e6f3ff;
+}
+
+a {
+  color: indianred;
+  text-decoration: none;
+}
+
+a.active {
+  color: indianred;
+}
+
+a:hover {
+  color: #e6f3ff;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+#second-row {
+  margin-top: 30px;
+}
+
+.card {
+  background: transparent;
+  border-color: #e6f3ff;
+  color: #e6f3ff;
+  box-shadow: 0px 0px 3px 3px #e6f3ff;
+}
+
+h3 {
+  font-style: italic;
+  font-family: "Bitter";
+}
+
+h1 {
+  font-family: "Bitter";
+}
+
+#first-step {
+  color: indianred;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* .wizzard-box {
+  box-sizing: border-box;
+  box-shadow: 1px 17px 81px 34px #e6f3ff;
+  width: 1200px;
+  height: auto;
+  border: solid 1px;
+  border-color: #e6f3ff;
+  color: indianred;
+  padding: 26px 32px 24px 34px;
+  font-family: "Sancreek", cursive;
+  text-align: center;
+} */
+
+.suggestions-box {
+  /* box-sizing: border-box; */
+  /* box-shadow: 1px 17px 81px 34px #e6f3ff; */
+  width: 1200px;
+  height: auto;
+  /* border: solid 1px; */
+  border-color: #e6f3ff;
+  color: indianred;
+  padding: 26px 32px 24px 34px;
+  font-family: "Sancreek", cursive;
+  text-align: center;
+}
+
+/* .forward-btn {
+  color: indianred;
+  background: transparent;
+  border: solid 2px;
+  border-color: indianred;
+  margin-top: 30px;
+  text-transform: uppercase;
+  transform: skewX(-25deg);
+  padding: 5px;
+} */
+
+/* .forward-btn:hover {
+  background-color: indianred;
+  color: #e6f3ff;
+  cursor: pointer;
+  transition: 0.3s;
+} */
+
+.card-btn {
+  color: #e6f3ff;
+  background: transparent;
+  border: solid 2px;
+  border-color: #e6f3ff;
+  margin-top: 30px;
+  text-transform: uppercase;
+  transform: skewX(-25deg);
+  padding: 5px;
+}
+
+.card-btn:hover {
+  background-color: indianred;
+  color: #e6f3ff;
+  cursor: pointer;
+  transition: 0.3s;
+}
